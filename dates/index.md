@@ -14,7 +14,7 @@ title: Important Dates
       {% for important in site.data.important_dates %}
       <tr>
         <td class="schedule-slot">
-            <p class="important-dates">{{ important.name }}</p>
+            <h5><p class="important-dates">{{ important.name }}:  </p></h5>
         </td>
         <td class="schedule-slot">
             <p class="important-dates undone">{{ important.date }}</p>
