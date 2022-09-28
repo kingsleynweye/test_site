@@ -1,5 +1,5 @@
 ---
-name: Room TBD
+name: Room
 ---
 
 ### In-person

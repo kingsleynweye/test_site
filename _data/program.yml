@@ -29,7 +29,7 @@ days:
   abbr: Tu
   date: 2022-11-08
   rooms:
-  - name: Room TBD
+  - name: Room
     talks:
       - name: Introduction & Welcome
         time_start: '12:00'
