@@ -1,0 +1,38 @@
+{
+    "days": [
+        {
+            "name": "Tuesday",
+            "hash": "tu",
+            "date": "2022-11-08"
+        }
+    ],
+
+    "rooms": {
+    },
+
+    "speakers": {
+        "Introduction Speaker" : {
+            "name": "Introduction Speaker",
+            "href": "/test_site/speakers/introduction_speaker/"
+        },
+        "Keynote 1 Speaker" : {
+            "name": "Keynote 1 Speaker",
+            "href": "/test_site/speakers/keynote_1_speaker/"
+        },
+        "Keynote 2 Speaker" : {
+            "name": "Keynote 2 Speaker",
+            "href": "/test_site/speakers/keynote_2_speaker/"
+        },
+        "Panel Discussion Moderator" : {
+            "name": "Panel Discussion Moderator",
+            "href": "/test_site/speakers/moderator/"
+        },
+        "Paper Presentation Speaker" : {
+            "name": "Paper Presentation Speaker",
+            "href": "/test_site/speakers/paper_presentation_speaker/"
+        }
+    },
+
+    "talks": {
+    }
+}
